@@ -1,15 +1,18 @@
 # checkout-system
 
-# How to Run
-Prerequisites:
-Java 21
-Maven
+## How to Run
 
-# Compile and Run:
+### Prerequisites:
+- Java 21
+- Maven
 
-# mvn clean compile
-# mvn exec:java - to execute
-# mvn clean test  (very basic tests  were added for service logic)
+### Compile and Run:
+
+```bash
+mvn clean compile
+mvn exec:java          # to execute
+mvn clean test         # very basic tests were added for service logic
+
 
 
 # Example Session:
