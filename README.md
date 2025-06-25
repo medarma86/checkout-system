@@ -7,9 +7,9 @@ Maven
 
 # Compile and Run:
 
-mvn clean compile
-mvn exec:java - to execute
-mvn clean test  (very basic tests  were added for service logic)
+# mvn clean compile
+# mvn exec:java - to execute
+# mvn clean test  (very basic tests  were added for service logic)
 
 
 # Example Session:
